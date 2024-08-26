@@ -6,4 +6,4 @@ Welcome to our Calculator Clone, a modern web app that replicates the simplicity
 Perform basic to complex calculations with ease, thanks to its user-friendly and responsive design.
 
 ## Demo
-![Click here to watch Demo](/src/assets/demo/Untitled%20video%20-%20Made%20with%20Clipchamp.gif)
+![Click here to watch Demo]((https://github.com/hyderdan/calculator-clone/blob/main/demo/Untitled%20video%20-%20Made%20with%20Clipchamp%20(2).gif))
